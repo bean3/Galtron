@@ -68,6 +68,7 @@
 | HoJin Seo     | Student    |     |
 | Sungho Yun    | Student    |     |
 | Keunmo Koo.   | Genius     |     |
+| Hyejin Lee    | Student    |     |
 
 
 
